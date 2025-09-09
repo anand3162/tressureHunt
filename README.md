@@ -1,5 +1,5 @@
 # tressureHunt
-A console-based adventure game in C where the player moves along a hidden path. You must explore tiles, collect treasures 💎, and avoid bombs 💣 while managing your limited lives and moves.
+A console-based adventure game in C where the player moves along a hidden path. You must explore tiles, collect treasures , and avoid bombs  while managing your limited lives and moves.
 Each move uncovers what’s on that tile (nothing, treasure, bomb, or both).
 Already visited tiles are marked so you don’t waste moves.
 The game ends when you run out of lives or moves.
