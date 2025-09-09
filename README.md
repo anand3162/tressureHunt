@@ -15,5 +15,4 @@ gcc treasure_hunt.c -o treasure_hunt
 >Keep track of your lives, treasures, and moves left.
 >Survive and collect as much treasure as possible.
 
-**Game Start**
 ![Game Configuration](screenshots/gameConfiguration.png)
